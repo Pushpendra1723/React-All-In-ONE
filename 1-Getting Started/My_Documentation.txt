@@ -1,0 +1,17 @@
+1->What is Emmet?
+2->What is the difference between Library and FrameWork.
+3->What is CDN? Why do we use it.
+4->Why React is known as React.
+5->What is crossorigin in script tag.
+6->What is difference between and React and ReactDOM.
+7->What is the difference between react.development.js and react.production.js files in CDN.
+8->What is async and defer.
+
+
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Pushpendra1723/React-All-In-ONE.git
+git push -u origin main
